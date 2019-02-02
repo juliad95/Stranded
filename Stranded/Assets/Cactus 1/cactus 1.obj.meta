@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: e2623f0da7d42674898a4d6f373ea088
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CACTUS0
+    100004: CACTUS1
+    100006: CACTUS2
+    100008: CACTUS3
+    100010: POT
+    100012: SPIKE0
+    100014: SPIKE1
+    100016: SPIKE2
+    100018: SPIKE3
+    400000: //RootNode
+    400002: CACTUS0
+    400004: CACTUS1
+    400006: CACTUS2
+    400008: CACTUS3
+    400010: POT
+    400012: SPIKE0
+    400014: SPIKE1
+    400016: SPIKE2
+    400018: SPIKE3
+    2100000: CACTUS0Mat
+    2100002: CACTUS1Mat
+    2100004: CACTUS2Mat
+    2100006: CACTUS3Mat
+    2100008: POTMat
+    2100010: SPIKE0Mat
+    2100012: SPIKE1Mat
+    2100014: SPIKE2Mat
+    2100016: SPIKE3Mat
+    2300000: CACTUS0
+    2300002: CACTUS1
+    2300004: CACTUS2
+    2300006: CACTUS3
+    2300008: POT
+    2300010: SPIKE0
+    2300012: SPIKE1
+    2300014: SPIKE2
+    2300016: SPIKE3
+    3300000: CACTUS0
+    3300002: CACTUS1
+    3300004: CACTUS2
+    3300006: CACTUS3
+    3300008: POT
+    3300010: SPIKE0
+    3300012: SPIKE1
+    3300014: SPIKE2
+    3300016: SPIKE3
+    4300000: CACTUS0
+    4300002: CACTUS1
+    4300004: CACTUS2
+    4300006: CACTUS3
+    4300008: POT
+    4300010: SPIKE0
+    4300012: SPIKE1
+    4300014: SPIKE2
+    4300016: SPIKE3
+    6400000: CACTUS0
+    6400002: CACTUS1
+    6400004: CACTUS2
+    6400006: CACTUS3
+    6400008: POT
+    6400010: SPIKE0
+    6400012: SPIKE1
+    6400014: SPIKE2
+    6400016: SPIKE3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

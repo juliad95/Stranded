@@ -1,0 +1,1141 @@
+fileFormatVersion: 2
+guid: a65f176f044b95846904b35eccc0b881
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group1
+    100004: group1 1
+    100006: group1 2
+    100008: group1 3
+    100010: group1 4
+    100012: group1 5
+    100014: group1 6
+    100016: group1 7
+    100018: group10
+    100020: group11
+    100022: group12
+    100024: group13
+    100026: group2
+    100028: group2 1
+    100030: group2 2
+    100032: group2 3
+    100034: group2 4
+    100036: group2 5
+    100038: group2 6
+    100040: group2 7
+    100042: group3
+    100044: group3 1
+    100046: group3 2
+    100048: group3 3
+    100050: group3 4
+    100052: group3 5
+    100054: group3 6
+    100056: group3 7
+    100058: group4
+    100060: group4 1
+    100062: group4 2
+    100064: group4 3
+    100066: group4 4
+    100068: group4 5
+    100070: group4 6
+    100072: group4 7
+    100074: group5
+    100076: group6
+    100078: group7
+    100080: group8
+    100082: group9
+    100084: pCone1
+    100086: pCone1 1
+    100088: pCone1 10
+    100090: pCone1 11
+    100092: pCone1 12
+    100094: pCone1 13
+    100096: pCone1 14
+    100098: pCone1 15
+    100100: pCone1 16
+    100102: pCone1 17
+    100104: pCone1 18
+    100106: pCone1 19
+    100108: pCone1 2
+    100110: pCone1 20
+    100112: pCone1 21
+    100114: pCone1 22
+    100116: pCone1 23
+    100118: pCone1 24
+    100120: pCone1 25
+    100122: pCone1 26
+    100124: pCone1 27
+    100126: pCone1 28
+    100128: pCone1 29
+    100130: pCone1 3
+    100132: pCone1 30
+    100134: pCone1 31
+    100136: pCone1 4
+    100138: pCone1 5
+    100140: pCone1 6
+    100142: pCone1 7
+    100144: pCone1 8
+    100146: pCone1 9
+    100148: pCone2
+    100150: pCone2 1
+    100152: pCone2 10
+    100154: pCone2 11
+    100156: pCone2 12
+    100158: pCone2 13
+    100160: pCone2 14
+    100162: pCone2 15
+    100164: pCone2 16
+    100166: pCone2 17
+    100168: pCone2 18
+    100170: pCone2 19
+    100172: pCone2 2
+    100174: pCone2 20
+    100176: pCone2 21
+    100178: pCone2 22
+    100180: pCone2 23
+    100182: pCone2 24
+    100184: pCone2 25
+    100186: pCone2 26
+    100188: pCone2 27
+    100190: pCone2 28
+    100192: pCone2 29
+    100194: pCone2 3
+    100196: pCone2 30
+    100198: pCone2 31
+    100200: pCone2 4
+    100202: pCone2 5
+    100204: pCone2 6
+    100206: pCone2 7
+    100208: pCone2 8
+    100210: pCone2 9
+    100212: pCone3
+    100214: pCone3 1
+    100216: pCone3 10
+    100218: pCone3 11
+    100220: pCone3 12
+    100222: pCone3 13
+    100224: pCone3 14
+    100226: pCone3 15
+    100228: pCone3 16
+    100230: pCone3 17
+    100232: pCone3 18
+    100234: pCone3 19
+    100236: pCone3 2
+    100238: pCone3 20
+    100240: pCone3 21
+    100242: pCone3 22
+    100244: pCone3 23
+    100246: pCone3 24
+    100248: pCone3 25
+    100250: pCone3 26
+    100252: pCone3 27
+    100254: pCone3 28
+    100256: pCone3 29
+    100258: pCone3 3
+    100260: pCone3 30
+    100262: pCone3 31
+    100264: pCone3 4
+    100266: pCone3 5
+    100268: pCone3 6
+    100270: pCone3 7
+    100272: pCone3 8
+    100274: pCone3 9
+    100276: pCone4
+    100278: pCone4 1
+    100280: pCone4 10
+    100282: pCone4 11
+    100284: pCone4 12
+    100286: pCone4 13
+    100288: pCone4 14
+    100290: pCone4 15
+    100292: pCone4 16
+    100294: pCone4 17
+    100296: pCone4 18
+    100298: pCone4 19
+    100300: pCone4 2
+    100302: pCone4 20
+    100304: pCone4 21
+    100306: pCone4 22
+    100308: pCone4 23
+    100310: pCone4 24
+    100312: pCone4 25
+    100314: pCone4 26
+    100316: pCone4 27
+    100318: pCone4 28
+    100320: pCone4 29
+    100322: pCone4 3
+    100324: pCone4 30
+    100326: pCone4 31
+    100328: pCone4 4
+    100330: pCone4 5
+    100332: pCone4 6
+    100334: pCone4 7
+    100336: pCone4 8
+    100338: pCone4 9
+    100340: pCone5
+    100342: pCone5 1
+    100344: pCone5 10
+    100346: pCone5 11
+    100348: pCone5 12
+    100350: pCone5 13
+    100352: pCone5 14
+    100354: pCone5 15
+    100356: pCone5 16
+    100358: pCone5 17
+    100360: pCone5 18
+    100362: pCone5 19
+    100364: pCone5 2
+    100366: pCone5 20
+    100368: pCone5 21
+    100370: pCone5 22
+    100372: pCone5 23
+    100374: pCone5 24
+    100376: pCone5 25
+    100378: pCone5 26
+    100380: pCone5 27
+    100382: pCone5 28
+    100384: pCone5 29
+    100386: pCone5 3
+    100388: pCone5 30
+    100390: pCone5 31
+    100392: pCone5 4
+    100394: pCone5 5
+    100396: pCone5 6
+    100398: pCone5 7
+    100400: pCone5 8
+    100402: pCone5 9
+    100404: pSphere1
+    100406: pSphere2
+    100408: pSphere2 1
+    100410: pSphere2 10
+    100412: pSphere2 11
+    100414: pSphere2 12
+    100416: pSphere2 13
+    100418: pSphere2 14
+    100420: pSphere2 15
+    100422: pSphere2 16
+    100424: pSphere2 17
+    100426: pSphere2 18
+    100428: pSphere2 19
+    100430: pSphere2 2
+    100432: pSphere2 20
+    100434: pSphere2 21
+    100436: pSphere2 22
+    100438: pSphere2 23
+    100440: pSphere2 24
+    100442: pSphere2 25
+    100444: pSphere2 26
+    100446: pSphere2 27
+    100448: pSphere2 28
+    100450: pSphere2 29
+    100452: pSphere2 3
+    100454: pSphere2 30
+    100456: pSphere2 31
+    100458: pSphere2 4
+    100460: pSphere2 5
+    100462: pSphere2 6
+    100464: pSphere2 7
+    100466: pSphere2 8
+    100468: pSphere2 9
+    400000: //RootNode
+    400002: group1
+    400004: group1 1
+    400006: group1 2
+    400008: group1 3
+    400010: group1 4
+    400012: group1 5
+    400014: group1 6
+    400016: group1 7
+    400018: group10
+    400020: group11
+    400022: group12
+    400024: group13
+    400026: group2
+    400028: group2 1
+    400030: group2 2
+    400032: group2 3
+    400034: group2 4
+    400036: group2 5
+    400038: group2 6
+    400040: group2 7
+    400042: group3
+    400044: group3 1
+    400046: group3 2
+    400048: group3 3
+    400050: group3 4
+    400052: group3 5
+    400054: group3 6
+    400056: group3 7
+    400058: group4
+    400060: group4 1
+    400062: group4 2
+    400064: group4 3
+    400066: group4 4
+    400068: group4 5
+    400070: group4 6
+    400072: group4 7
+    400074: group5
+    400076: group6
+    400078: group7
+    400080: group8
+    400082: group9
+    400084: pCone1
+    400086: pCone1 1
+    400088: pCone1 10
+    400090: pCone1 11
+    400092: pCone1 12
+    400094: pCone1 13
+    400096: pCone1 14
+    400098: pCone1 15
+    400100: pCone1 16
+    400102: pCone1 17
+    400104: pCone1 18
+    400106: pCone1 19
+    400108: pCone1 2
+    400110: pCone1 20
+    400112: pCone1 21
+    400114: pCone1 22
+    400116: pCone1 23
+    400118: pCone1 24
+    400120: pCone1 25
+    400122: pCone1 26
+    400124: pCone1 27
+    400126: pCone1 28
+    400128: pCone1 29
+    400130: pCone1 3
+    400132: pCone1 30
+    400134: pCone1 31
+    400136: pCone1 4
+    400138: pCone1 5
+    400140: pCone1 6
+    400142: pCone1 7
+    400144: pCone1 8
+    400146: pCone1 9
+    400148: pCone2
+    400150: pCone2 1
+    400152: pCone2 10
+    400154: pCone2 11
+    400156: pCone2 12
+    400158: pCone2 13
+    400160: pCone2 14
+    400162: pCone2 15
+    400164: pCone2 16
+    400166: pCone2 17
+    400168: pCone2 18
+    400170: pCone2 19
+    400172: pCone2 2
+    400174: pCone2 20
+    400176: pCone2 21
+    400178: pCone2 22
+    400180: pCone2 23
+    400182: pCone2 24
+    400184: pCone2 25
+    400186: pCone2 26
+    400188: pCone2 27
+    400190: pCone2 28
+    400192: pCone2 29
+    400194: pCone2 3
+    400196: pCone2 30
+    400198: pCone2 31
+    400200: pCone2 4
+    400202: pCone2 5
+    400204: pCone2 6
+    400206: pCone2 7
+    400208: pCone2 8
+    400210: pCone2 9
+    400212: pCone3
+    400214: pCone3 1
+    400216: pCone3 10
+    400218: pCone3 11
+    400220: pCone3 12
+    400222: pCone3 13
+    400224: pCone3 14
+    400226: pCone3 15
+    400228: pCone3 16
+    400230: pCone3 17
+    400232: pCone3 18
+    400234: pCone3 19
+    400236: pCone3 2
+    400238: pCone3 20
+    400240: pCone3 21
+    400242: pCone3 22
+    400244: pCone3 23
+    400246: pCone3 24
+    400248: pCone3 25
+    400250: pCone3 26
+    400252: pCone3 27
+    400254: pCone3 28
+    400256: pCone3 29
+    400258: pCone3 3
+    400260: pCone3 30
+    400262: pCone3 31
+    400264: pCone3 4
+    400266: pCone3 5
+    400268: pCone3 6
+    400270: pCone3 7
+    400272: pCone3 8
+    400274: pCone3 9
+    400276: pCone4
+    400278: pCone4 1
+    400280: pCone4 10
+    400282: pCone4 11
+    400284: pCone4 12
+    400286: pCone4 13
+    400288: pCone4 14
+    400290: pCone4 15
+    400292: pCone4 16
+    400294: pCone4 17
+    400296: pCone4 18
+    400298: pCone4 19
+    400300: pCone4 2
+    400302: pCone4 20
+    400304: pCone4 21
+    400306: pCone4 22
+    400308: pCone4 23
+    400310: pCone4 24
+    400312: pCone4 25
+    400314: pCone4 26
+    400316: pCone4 27
+    400318: pCone4 28
+    400320: pCone4 29
+    400322: pCone4 3
+    400324: pCone4 30
+    400326: pCone4 31
+    400328: pCone4 4
+    400330: pCone4 5
+    400332: pCone4 6
+    400334: pCone4 7
+    400336: pCone4 8
+    400338: pCone4 9
+    400340: pCone5
+    400342: pCone5 1
+    400344: pCone5 10
+    400346: pCone5 11
+    400348: pCone5 12
+    400350: pCone5 13
+    400352: pCone5 14
+    400354: pCone5 15
+    400356: pCone5 16
+    400358: pCone5 17
+    400360: pCone5 18
+    400362: pCone5 19
+    400364: pCone5 2
+    400366: pCone5 20
+    400368: pCone5 21
+    400370: pCone5 22
+    400372: pCone5 23
+    400374: pCone5 24
+    400376: pCone5 25
+    400378: pCone5 26
+    400380: pCone5 27
+    400382: pCone5 28
+    400384: pCone5 29
+    400386: pCone5 3
+    400388: pCone5 30
+    400390: pCone5 31
+    400392: pCone5 4
+    400394: pCone5 5
+    400396: pCone5 6
+    400398: pCone5 7
+    400400: pCone5 8
+    400402: pCone5 9
+    400404: pSphere1
+    400406: pSphere2
+    400408: pSphere2 1
+    400410: pSphere2 10
+    400412: pSphere2 11
+    400414: pSphere2 12
+    400416: pSphere2 13
+    400418: pSphere2 14
+    400420: pSphere2 15
+    400422: pSphere2 16
+    400424: pSphere2 17
+    400426: pSphere2 18
+    400428: pSphere2 19
+    400430: pSphere2 2
+    400432: pSphere2 20
+    400434: pSphere2 21
+    400436: pSphere2 22
+    400438: pSphere2 23
+    400440: pSphere2 24
+    400442: pSphere2 25
+    400444: pSphere2 26
+    400446: pSphere2 27
+    400448: pSphere2 28
+    400450: pSphere2 29
+    400452: pSphere2 3
+    400454: pSphere2 30
+    400456: pSphere2 31
+    400458: pSphere2 4
+    400460: pSphere2 5
+    400462: pSphere2 6
+    400464: pSphere2 7
+    400466: pSphere2 8
+    400468: pSphere2 9
+    2100000: lambert1
+    2300000: pCone1
+    2300002: pCone1 1
+    2300004: pCone1 10
+    2300006: pCone1 11
+    2300008: pCone1 12
+    2300010: pCone1 13
+    2300012: pCone1 14
+    2300014: pCone1 15
+    2300016: pCone1 16
+    2300018: pCone1 17
+    2300020: pCone1 18
+    2300022: pCone1 19
+    2300024: pCone1 2
+    2300026: pCone1 20
+    2300028: pCone1 21
+    2300030: pCone1 22
+    2300032: pCone1 23
+    2300034: pCone1 24
+    2300036: pCone1 25
+    2300038: pCone1 26
+    2300040: pCone1 27
+    2300042: pCone1 28
+    2300044: pCone1 29
+    2300046: pCone1 3
+    2300048: pCone1 30
+    2300050: pCone1 31
+    2300052: pCone1 4
+    2300054: pCone1 5
+    2300056: pCone1 6
+    2300058: pCone1 7
+    2300060: pCone1 8
+    2300062: pCone1 9
+    2300064: pCone2
+    2300066: pCone2 1
+    2300068: pCone2 10
+    2300070: pCone2 11
+    2300072: pCone2 12
+    2300074: pCone2 13
+    2300076: pCone2 14
+    2300078: pCone2 15
+    2300080: pCone2 16
+    2300082: pCone2 17
+    2300084: pCone2 18
+    2300086: pCone2 19
+    2300088: pCone2 2
+    2300090: pCone2 20
+    2300092: pCone2 21
+    2300094: pCone2 22
+    2300096: pCone2 23
+    2300098: pCone2 24
+    2300100: pCone2 25
+    2300102: pCone2 26
+    2300104: pCone2 27
+    2300106: pCone2 28
+    2300108: pCone2 29
+    2300110: pCone2 3
+    2300112: pCone2 30
+    2300114: pCone2 31
+    2300116: pCone2 4
+    2300118: pCone2 5
+    2300120: pCone2 6
+    2300122: pCone2 7
+    2300124: pCone2 8
+    2300126: pCone2 9
+    2300128: pCone3
+    2300130: pCone3 1
+    2300132: pCone3 10
+    2300134: pCone3 11
+    2300136: pCone3 12
+    2300138: pCone3 13
+    2300140: pCone3 14
+    2300142: pCone3 15
+    2300144: pCone3 16
+    2300146: pCone3 17
+    2300148: pCone3 18
+    2300150: pCone3 19
+    2300152: pCone3 2
+    2300154: pCone3 20
+    2300156: pCone3 21
+    2300158: pCone3 22
+    2300160: pCone3 23
+    2300162: pCone3 24
+    2300164: pCone3 25
+    2300166: pCone3 26
+    2300168: pCone3 27
+    2300170: pCone3 28
+    2300172: pCone3 29
+    2300174: pCone3 3
+    2300176: pCone3 30
+    2300178: pCone3 31
+    2300180: pCone3 4
+    2300182: pCone3 5
+    2300184: pCone3 6
+    2300186: pCone3 7
+    2300188: pCone3 8
+    2300190: pCone3 9
+    2300192: pCone4
+    2300194: pCone4 1
+    2300196: pCone4 10
+    2300198: pCone4 11
+    2300200: pCone4 12
+    2300202: pCone4 13
+    2300204: pCone4 14
+    2300206: pCone4 15
+    2300208: pCone4 16
+    2300210: pCone4 17
+    2300212: pCone4 18
+    2300214: pCone4 19
+    2300216: pCone4 2
+    2300218: pCone4 20
+    2300220: pCone4 21
+    2300222: pCone4 22
+    2300224: pCone4 23
+    2300226: pCone4 24
+    2300228: pCone4 25
+    2300230: pCone4 26
+    2300232: pCone4 27
+    2300234: pCone4 28
+    2300236: pCone4 29
+    2300238: pCone4 3
+    2300240: pCone4 30
+    2300242: pCone4 31
+    2300244: pCone4 4
+    2300246: pCone4 5
+    2300248: pCone4 6
+    2300250: pCone4 7
+    2300252: pCone4 8
+    2300254: pCone4 9
+    2300256: pCone5
+    2300258: pCone5 1
+    2300260: pCone5 10
+    2300262: pCone5 11
+    2300264: pCone5 12
+    2300266: pCone5 13
+    2300268: pCone5 14
+    2300270: pCone5 15
+    2300272: pCone5 16
+    2300274: pCone5 17
+    2300276: pCone5 18
+    2300278: pCone5 19
+    2300280: pCone5 2
+    2300282: pCone5 20
+    2300284: pCone5 21
+    2300286: pCone5 22
+    2300288: pCone5 23
+    2300290: pCone5 24
+    2300292: pCone5 25
+    2300294: pCone5 26
+    2300296: pCone5 27
+    2300298: pCone5 28
+    2300300: pCone5 29
+    2300302: pCone5 3
+    2300304: pCone5 30
+    2300306: pCone5 31
+    2300308: pCone5 4
+    2300310: pCone5 5
+    2300312: pCone5 6
+    2300314: pCone5 7
+    2300316: pCone5 8
+    2300318: pCone5 9
+    2300320: pSphere1
+    2300322: pSphere2
+    2300324: pSphere2 1
+    2300326: pSphere2 10
+    2300328: pSphere2 11
+    2300330: pSphere2 12
+    2300332: pSphere2 13
+    2300334: pSphere2 14
+    2300336: pSphere2 15
+    2300338: pSphere2 16
+    2300340: pSphere2 17
+    2300342: pSphere2 18
+    2300344: pSphere2 19
+    2300346: pSphere2 2
+    2300348: pSphere2 20
+    2300350: pSphere2 21
+    2300352: pSphere2 22
+    2300354: pSphere2 23
+    2300356: pSphere2 24
+    2300358: pSphere2 25
+    2300360: pSphere2 26
+    2300362: pSphere2 27
+    2300364: pSphere2 28
+    2300366: pSphere2 29
+    2300368: pSphere2 3
+    2300370: pSphere2 30
+    2300372: pSphere2 31
+    2300374: pSphere2 4
+    2300376: pSphere2 5
+    2300378: pSphere2 6
+    2300380: pSphere2 7
+    2300382: pSphere2 8
+    2300384: pSphere2 9
+    3300000: pCone1
+    3300002: pCone1 1
+    3300004: pCone1 10
+    3300006: pCone1 11
+    3300008: pCone1 12
+    3300010: pCone1 13
+    3300012: pCone1 14
+    3300014: pCone1 15
+    3300016: pCone1 16
+    3300018: pCone1 17
+    3300020: pCone1 18
+    3300022: pCone1 19
+    3300024: pCone1 2
+    3300026: pCone1 20
+    3300028: pCone1 21
+    3300030: pCone1 22
+    3300032: pCone1 23
+    3300034: pCone1 24
+    3300036: pCone1 25
+    3300038: pCone1 26
+    3300040: pCone1 27
+    3300042: pCone1 28
+    3300044: pCone1 29
+    3300046: pCone1 3
+    3300048: pCone1 30
+    3300050: pCone1 31
+    3300052: pCone1 4
+    3300054: pCone1 5
+    3300056: pCone1 6
+    3300058: pCone1 7
+    3300060: pCone1 8
+    3300062: pCone1 9
+    3300064: pCone2
+    3300066: pCone2 1
+    3300068: pCone2 10
+    3300070: pCone2 11
+    3300072: pCone2 12
+    3300074: pCone2 13
+    3300076: pCone2 14
+    3300078: pCone2 15
+    3300080: pCone2 16
+    3300082: pCone2 17
+    3300084: pCone2 18
+    3300086: pCone2 19
+    3300088: pCone2 2
+    3300090: pCone2 20
+    3300092: pCone2 21
+    3300094: pCone2 22
+    3300096: pCone2 23
+    3300098: pCone2 24
+    3300100: pCone2 25
+    3300102: pCone2 26
+    3300104: pCone2 27
+    3300106: pCone2 28
+    3300108: pCone2 29
+    3300110: pCone2 3
+    3300112: pCone2 30
+    3300114: pCone2 31
+    3300116: pCone2 4
+    3300118: pCone2 5
+    3300120: pCone2 6
+    3300122: pCone2 7
+    3300124: pCone2 8
+    3300126: pCone2 9
+    3300128: pCone3
+    3300130: pCone3 1
+    3300132: pCone3 10
+    3300134: pCone3 11
+    3300136: pCone3 12
+    3300138: pCone3 13
+    3300140: pCone3 14
+    3300142: pCone3 15
+    3300144: pCone3 16
+    3300146: pCone3 17
+    3300148: pCone3 18
+    3300150: pCone3 19
+    3300152: pCone3 2
+    3300154: pCone3 20
+    3300156: pCone3 21
+    3300158: pCone3 22
+    3300160: pCone3 23
+    3300162: pCone3 24
+    3300164: pCone3 25
+    3300166: pCone3 26
+    3300168: pCone3 27
+    3300170: pCone3 28
+    3300172: pCone3 29
+    3300174: pCone3 3
+    3300176: pCone3 30
+    3300178: pCone3 31
+    3300180: pCone3 4
+    3300182: pCone3 5
+    3300184: pCone3 6
+    3300186: pCone3 7
+    3300188: pCone3 8
+    3300190: pCone3 9
+    3300192: pCone4
+    3300194: pCone4 1
+    3300196: pCone4 10
+    3300198: pCone4 11
+    3300200: pCone4 12
+    3300202: pCone4 13
+    3300204: pCone4 14
+    3300206: pCone4 15
+    3300208: pCone4 16
+    3300210: pCone4 17
+    3300212: pCone4 18
+    3300214: pCone4 19
+    3300216: pCone4 2
+    3300218: pCone4 20
+    3300220: pCone4 21
+    3300222: pCone4 22
+    3300224: pCone4 23
+    3300226: pCone4 24
+    3300228: pCone4 25
+    3300230: pCone4 26
+    3300232: pCone4 27
+    3300234: pCone4 28
+    3300236: pCone4 29
+    3300238: pCone4 3
+    3300240: pCone4 30
+    3300242: pCone4 31
+    3300244: pCone4 4
+    3300246: pCone4 5
+    3300248: pCone4 6
+    3300250: pCone4 7
+    3300252: pCone4 8
+    3300254: pCone4 9
+    3300256: pCone5
+    3300258: pCone5 1
+    3300260: pCone5 10
+    3300262: pCone5 11
+    3300264: pCone5 12
+    3300266: pCone5 13
+    3300268: pCone5 14
+    3300270: pCone5 15
+    3300272: pCone5 16
+    3300274: pCone5 17
+    3300276: pCone5 18
+    3300278: pCone5 19
+    3300280: pCone5 2
+    3300282: pCone5 20
+    3300284: pCone5 21
+    3300286: pCone5 22
+    3300288: pCone5 23
+    3300290: pCone5 24
+    3300292: pCone5 25
+    3300294: pCone5 26
+    3300296: pCone5 27
+    3300298: pCone5 28
+    3300300: pCone5 29
+    3300302: pCone5 3
+    3300304: pCone5 30
+    3300306: pCone5 31
+    3300308: pCone5 4
+    3300310: pCone5 5
+    3300312: pCone5 6
+    3300314: pCone5 7
+    3300316: pCone5 8
+    3300318: pCone5 9
+    3300320: pSphere1
+    3300322: pSphere2
+    3300324: pSphere2 1
+    3300326: pSphere2 10
+    3300328: pSphere2 11
+    3300330: pSphere2 12
+    3300332: pSphere2 13
+    3300334: pSphere2 14
+    3300336: pSphere2 15
+    3300338: pSphere2 16
+    3300340: pSphere2 17
+    3300342: pSphere2 18
+    3300344: pSphere2 19
+    3300346: pSphere2 2
+    3300348: pSphere2 20
+    3300350: pSphere2 21
+    3300352: pSphere2 22
+    3300354: pSphere2 23
+    3300356: pSphere2 24
+    3300358: pSphere2 25
+    3300360: pSphere2 26
+    3300362: pSphere2 27
+    3300364: pSphere2 28
+    3300366: pSphere2 29
+    3300368: pSphere2 3
+    3300370: pSphere2 30
+    3300372: pSphere2 31
+    3300374: pSphere2 4
+    3300376: pSphere2 5
+    3300378: pSphere2 6
+    3300380: pSphere2 7
+    3300382: pSphere2 8
+    3300384: pSphere2 9
+    4300000: pSphere1
+    4300002: pSphere2
+    4300004: pCone1
+    4300006: pCone2
+    4300008: pCone3
+    4300010: pCone4
+    4300012: pCone5
+    4300014: pSphere2
+    4300016: pCone1
+    4300018: pCone2
+    4300020: pCone3
+    4300022: pCone4
+    4300024: pCone5
+    4300026: pSphere2
+    4300028: pCone1
+    4300030: pCone2
+    4300032: pCone3
+    4300034: pCone4
+    4300036: pCone5
+    4300038: pSphere2
+    4300040: pCone1
+    4300042: pCone2
+    4300044: pCone3
+    4300046: pCone4
+    4300048: pCone5
+    4300050: pSphere2
+    4300052: pCone1
+    4300054: pCone2
+    4300056: pCone3
+    4300058: pCone4
+    4300060: pCone5
+    4300062: pSphere2
+    4300064: pCone1
+    4300066: pCone2
+    4300068: pCone3
+    4300070: pCone4
+    4300072: pCone5
+    4300074: pSphere2
+    4300076: pCone1
+    4300078: pCone2
+    4300080: pCone3
+    4300082: pCone4
+    4300084: pCone5
+    4300086: pSphere2
+    4300088: pCone1
+    4300090: pCone2
+    4300092: pCone3
+    4300094: pCone4
+    4300096: pCone5
+    4300098: pSphere2
+    4300100: pCone1
+    4300102: pCone2
+    4300104: pCone3
+    4300106: pCone4
+    4300108: pCone5
+    4300110: pSphere2
+    4300112: pCone1
+    4300114: pCone2
+    4300116: pCone3
+    4300118: pCone4
+    4300120: pCone5
+    4300122: pSphere2
+    4300124: pCone1
+    4300126: pCone2
+    4300128: pCone3
+    4300130: pCone4
+    4300132: pCone5
+    4300134: pSphere2
+    4300136: pCone1
+    4300138: pCone2
+    4300140: pCone3
+    4300142: pCone4
+    4300144: pCone5
+    4300146: pSphere2
+    4300148: pCone1
+    4300150: pCone2
+    4300152: pCone3
+    4300154: pCone4
+    4300156: pCone5
+    4300158: pSphere2
+    4300160: pCone1
+    4300162: pCone2
+    4300164: pCone3
+    4300166: pCone4
+    4300168: pCone5
+    4300170: pSphere2
+    4300172: pCone1
+    4300174: pCone2
+    4300176: pCone3
+    4300178: pCone4
+    4300180: pCone5
+    4300182: pSphere2
+    4300184: pCone1
+    4300186: pCone2
+    4300188: pCone3
+    4300190: pCone4
+    4300192: pCone5
+    4300194: pSphere2
+    4300196: pCone1
+    4300198: pCone2
+    4300200: pCone3
+    4300202: pCone4
+    4300204: pCone5
+    4300206: pSphere2
+    4300208: pCone1
+    4300210: pCone2
+    4300212: pCone3
+    4300214: pCone4
+    4300216: pCone5
+    4300218: pSphere2
+    4300220: pCone1
+    4300222: pCone2
+    4300224: pCone3
+    4300226: pCone4
+    4300228: pCone5
+    4300230: pSphere2
+    4300232: pCone1
+    4300234: pCone2
+    4300236: pCone3
+    4300238: pCone4
+    4300240: pCone5
+    4300242: pSphere2
+    4300244: pCone1
+    4300246: pCone2
+    4300248: pCone3
+    4300250: pCone4
+    4300252: pCone5
+    4300254: pSphere2
+    4300256: pCone1
+    4300258: pCone2
+    4300260: pCone3
+    4300262: pCone4
+    4300264: pCone5
+    4300266: pSphere2
+    4300268: pCone1
+    4300270: pCone2
+    4300272: pCone3
+    4300274: pCone4
+    4300276: pCone5
+    4300278: pSphere2
+    4300280: pCone1
+    4300282: pCone2
+    4300284: pCone3
+    4300286: pCone4
+    4300288: pCone5
+    4300290: pSphere2
+    4300292: pCone1
+    4300294: pCone2
+    4300296: pCone3
+    4300298: pCone4
+    4300300: pCone5
+    4300302: pSphere2
+    4300304: pCone1
+    4300306: pCone2
+    4300308: pCone3
+    4300310: pCone4
+    4300312: pCone5
+    4300314: pSphere2
+    4300316: pCone1
+    4300318: pCone2
+    4300320: pCone3
+    4300322: pCone4
+    4300324: pCone5
+    4300326: pSphere2
+    4300328: pCone1
+    4300330: pCone2
+    4300332: pCone3
+    4300334: pCone4
+    4300336: pCone5
+    4300338: pSphere2
+    4300340: pCone1
+    4300342: pCone2
+    4300344: pCone3
+    4300346: pCone4
+    4300348: pCone5
+    4300350: pSphere2
+    4300352: pCone1
+    4300354: pCone2
+    4300356: pCone3
+    4300358: pCone4
+    4300360: pCone5
+    4300362: pSphere2
+    4300364: pCone1
+    4300366: pCone2
+    4300368: pCone3
+    4300370: pCone4
+    4300372: pCone5
+    4300374: pSphere2
+    4300376: pCone1
+    4300378: pCone2
+    4300380: pCone3
+    4300382: pCone4
+    4300384: pCone5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
